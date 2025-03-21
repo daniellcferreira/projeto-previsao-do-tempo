@@ -1,4 +1,15 @@
 # Previsão do Tempo
+<p>
+  <img src="https://img.shields.io/badge/HTML5-Marcação-E34F26?style=flat-square&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-Estilização-1572B6?style=flat-square&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/JavaScript-Interatividade-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/TypeScript-Tipagem-3178C6?style=flat-square&logo=typescript&logoColor=3178C6">
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=339933">
+  <img src="https://img.shields.io/badge/Express.js-Framework-000000?style=flat-square&logo=express&logoColor=000000">
+  <img src="https://img.shields.io/badge/OpenWeather-API-EEA300?style=flat-square&logo=openweathermap&logoColor=EEA300">
+</p>
+
+
 
 Este projeto é uma aplicação simples que permite aos usuários obterem a previsão do tempo atual para uma cidade inserida. Através da integração com a API **OpenWeather**, o usuário pode visualizar a temperatura atual em Celsius e um ícone representando as condições meteorológicas da cidade solicitada.
 
